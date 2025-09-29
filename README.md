@@ -31,12 +31,21 @@ Hi there 👋, I’m **Ayosteve**, a medical doctor and research enthusiast pass
 ---
 
 ## 📂 Sample Works  
-Here you can browse anonymized project samples I’ve worked on:  
-- ✅ [Sample Literature Review](./Samples/Sample-Literature-Review.pdf)  
-- ✅ [SPSS Output + Analysis Report](./Samples/Sample-SPSS-Analysis.pdf)  
-- ✅ [Proposal Format Guide](./Samples/Sample-Proposal.pdf)  
-- ✅ [Sample Questionnaire](./Samples/Sample-Questionnaire.pdf)  
-- ✅ [Mini Research Guide](./Samples/Research-Tips.pdf)  
+# Research Writing Portfolio  
+
+👋 Hi, I’m **Dr. Akinniyi Ayodeji**, a medical doctor and research consultant.  
+This repository showcases a selection of my professional research writing samples:  
+
+- [Executive Summary](./Sample_Executive_Summary.pdf)  
+- [Literature Review](./Sample_Literature_Review.pdf)  
+- [Methodology](./Sample_Methodology.pdf)  
+- [Questionnaire](./Sample_Questionnaire.pdf)  
+
+📩 **Contact me**  
+- Email: akinniyiayoade16@gmail.com  
+- WhatsApp: 09032701227  
+- LinkedIn: [Akinniyi Ayodeji](https://www.linkedin.com)
+- 
 
 ---
 
