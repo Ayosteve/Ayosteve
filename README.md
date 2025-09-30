@@ -44,7 +44,7 @@ This repository showcases a selection of my professional research writing sample
 📩 **Contact me**  
 - Email: akinniyiayoade16@gmail.com  
 - WhatsApp: 09032701227  
-- LinkedIn: [Akinniyi Ayodeji](https://www.linkedin.com)
+- LinkedIn: [Akinniyi Ayodeji](https://www.linkedin.com/in/akinniyi-ayodeji-463b41218?trk=contact-info
 - 
 
 ---
