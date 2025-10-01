@@ -35,6 +35,7 @@ Hi there 👋, I’m **Ayosteve**, a medical doctor and research enthusiast pass
 
 👋 Hi, I’m **Dr. Akinniyi Ayodeji**, a medical doctor and research consultant.  
 This repository showcases a selection of my professional research writing samples:  
+https://github.com/Ayosteve/Research--Sample-Writing-.git
 
 - [Executive Summary](./Sample_Executive_Summary.pdf)  
 - [Literature Review](./Sample_Literature_Review.pdf)  
