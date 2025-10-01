@@ -23,7 +23,7 @@ Hi there 👋, I’m **Ayosteve**, a medical doctor and research enthusiast pass
 ---
 
 ## 📬 Let’s Work Together  
-- 📩 **Email:** akinniyiayoade16@gmail.com  
+- 📩 **Email:** akinniyiayoade16@gmail.com(mailto:akinniyiayoade16@gmail.com)  
 - 📱 **WhatsApp:** [Click to chat](https://wa.me/2349032701227)  
 - 🌍 **LinkedIn:** [Akinniyi Ayodeji](https://www.linkedin.com/in/akinniyi-ayodeji)  
 - 💼 **Fiverr/Upwork:** Coming soon!  
